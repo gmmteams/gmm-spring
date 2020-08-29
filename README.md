@@ -1,1 +1,1 @@
-# gmm-spring1
+# gmm-spring
