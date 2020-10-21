@@ -11,6 +11,6 @@ public class GMMController {
 
 	@GetMapping
     public String sayHello() {
-        return "Hello and Welcome to the GMM application3";
+        return "Hello and Welcome to the GMM application4";
     }
 }
